@@ -1,3 +1,5 @@
+
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/mk4arts/mk4arts/master/avatar.jpg" alt="Banner showing the avatar of Marcel Koops" style="display: inline-block"></div>
 ### Hi there 👋
 
 <!--
