@@ -1,7 +1,5 @@
 # Marcel Koops
 
-<img src="https://raw.githubusercontent.com/mk4arts/mk4arts/master/avatar.jpg" alt="Banner showing the avatar of Marcel Koops" align="right">
-
 ## Full Stack Developer | Vue.js Expert | UX Designer
 
 I'm Marcel, a passionate Full Stack Developer, Vue.js expert, and UX Designer. I'm currently employed at [Lab25](https://www.lab25.de/), where I work as **Lead Software Engineer**. Additionally, I'm proud to serve as a mentor at VueForge, helping aspiring developers build their skills in the Vue.js ecosystem.
